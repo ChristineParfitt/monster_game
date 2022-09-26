@@ -43,3 +43,5 @@ while game_running == True :
             #monster['health'] = 100
             new_round = False
             print('New round!')
+
+# up to 50:39 on the youtube video: https://youtu.be/kDdTgxv2Vv0
